@@ -16,7 +16,7 @@ html {
 	-moz-text-size-adjust: 100%;
 	-ms-text-size-adjust: 100%;
 	-webkit-text-size-adjust: 100%;
-    font-size: 100%;
+    font-size: 110%;
     font-family: "Bodoni MT", Times, serif;
     color: darkslategray;
 }
@@ -29,7 +29,7 @@ ul {
 
 h3, h2 {
     display: block;
-    font-size: 1.17em;
+    font-size:1.17em;
     -webkit-margin-before: 0em;
     -webkit-margin-after: 0em;
     -webkit-margin-start: 0px;
@@ -212,6 +212,7 @@ h1 {
 h2 {
     margin-top:1.5rem;
     margin-bottom:1.5rem;
+    font-size: 2rem;
 }
 
 .promo {
