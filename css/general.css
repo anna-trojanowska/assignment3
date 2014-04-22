@@ -262,11 +262,12 @@ h2 {
 
 footer {
     background-color:indianred;
-    padding: 1.5rem 0.5rem .5rem;
+    padding: 2rem 0.5rem .5rem;
 }
 
 footer p {
     color:white;
+    margin: 1rem;
 }
 
 .social-icons li {
